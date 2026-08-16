@@ -53,7 +53,8 @@ Type `/lc` to open the options panel.
 ## Installation
 
 1. Download and extract
-2. Place the `LoseControl` folder into `Interface\AddOns\`
+2. Place the `LoseControl` folder into `Interface\AddOns\` (make sure the folder is
+   named exactly `LoseControl`, with no version suffix like `-master`)
 3. Enable **"Load out-of-date AddOns"** on the character select screen if it
    doesn't appear in your addon list
 4. `/reload` or restart the game
